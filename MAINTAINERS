@@ -303,6 +303,7 @@ Hardware acceleration:
   vaapi*                                Gwenole Beauchesne
   vda*                                  Sebastien Zwickert
   vdpau*                                Carl Eugen Hoyos
+  videotoolbox*                         Sebastien Zwickert
 
 
 libavdevice
